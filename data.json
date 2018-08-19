@@ -1,0 +1,60 @@
+{
+	"details":{
+		"image":"profile.png",
+		"name":"eswara lakshmi",
+		"phoneno":"9345672341",
+		"emailid":"komakulalakshmi13@gmail.com",
+		"address":"rajahmundry."
+	},
+	"carrer":{
+		"info":"to purchage a challinging carrer and be a challange"
+	},
+	"education":[
+	{
+        "qualification":"btech",
+        "institute":"vignan's nirula",
+        "year":"2016-2020",
+        "percentage":"99%"
+
+	},
+	{
+		"qualification":"inter",
+		"institute":"tirumala",
+		"year":"2014-2016",
+		"percentage":"98%"
+	},
+	{
+		"qualification":"10th",
+		"institute":"keshavareddy",
+		"year":"2013",
+		"percentage":"97%"
+	}
+],
+	"skills":[{
+		"title":"programminglanguages",
+		"info":["c","java","c++"]
+
+    	
+	},
+	{
+	"title":"databases",
+	"info":["oracle","sql"]
+},
+{
+    "title":"operatingsystems",
+    "info":["unix","linux","window","mac"]
+}
+],
+	"achivements":[
+	{
+		"title":"got first in essaywriting"
+	},
+	{
+		"title":"got second in dance"
+	}
+]
+}
+
+	
+
+
